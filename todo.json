@@ -1,0 +1,9 @@
+{
+    "todos":[
+        {
+            "id":1,
+            "todo":"Learn NextJs",
+            "isDone":false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "My First Post",
+            "description": "lorem ipsum dolor sit amet",
+            "thumbnail": "http://placehold.it/1024x1024",
+            "tags": [
+                "one",
+                "two",
+                "three",
+                "four"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "My Second Post",
+            "description": "lorem ipsum dolor sit amet",
+            "thumbnail": "http://placehold.it/1024x1024",
+            "tags": [
+                "programming",
+                "web development",
+                "react",
+                "json"
+            ]
+        }
+    ]
+}
